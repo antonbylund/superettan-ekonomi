@@ -1,8 +1,0 @@
-# Skapa .gitkeep i varje mapp
-New-Item data/allsvenskan/.gitkeep
-New-Item data/superettan/.gitkeep
-New-Item notebooks/.gitkeep
-New-Item docs/.gitkeep
-New-Item src/extract/.gitkeep
-New-Item src/transform/.gitkeep
-New-Item src/load/.gitkeep
